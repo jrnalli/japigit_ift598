@@ -1,0 +1,85 @@
+{
+    "Global Quote": {
+        "01. symbol": "AAPL",
+        "02. open": "148.4300",
+        "03. high": "150.4000",
+        "04. low": "147.4800",
+        "05. price": "149.9900",
+        "06. volume": "63245197",
+        "07. latest trading day": "2021-11-12",
+        "08. previous close": "147.8700",
+        "09. change": "2.1200",
+        "10. change percent": "1.4337%"
+    }
+}
+
+The current price of AAPL is: 149.9900
+
+{
+    "Global Quote": {
+        "01. symbol": "AMZN",
+        "02. open": "3485.0000",
+        "03. high": "3540.7262",
+        "04. low": "3447.0500",
+        "05. price": "3525.1500",
+        "06. volume": "2636157",
+        "07. latest trading day": "2021-11-12",
+        "08. previous close": "3472.5000",
+        "09. change": "52.6500",
+        "10. change percent": "1.5162%"
+    }
+}
+
+The current price of AMZN is: 3525.1500
+
+{
+    "Global Quote": {
+        "01. symbol": "MSFT",
+        "02. open": "333.9200",
+        "03. high": "337.2300",
+        "04. low": "333.7900",
+        "05. price": "336.7200",
+        "06. volume": "23484434",
+        "07. latest trading day": "2021-11-12",
+        "08. previous close": "332.4300",
+        "09. change": "4.2900",
+        "10. change percent": "1.2905%"
+    }
+}
+
+The current price of MSFT is: 336.7200
+
+{
+    "Global Quote": {
+        "01. symbol": "NFLX",
+        "02. open": "660.0100",
+        "03. high": "683.3400",
+        "04. low": "653.8200",
+        "05. price": "682.6100",
+        "06. volume": "4128862",
+        "07. latest trading day": "2021-11-12",
+        "08. previous close": "657.5800",
+        "09. change": "25.0300",
+        "10. change percent": "3.8064%"
+    }
+}
+
+The current price of NFLX is: 682.6100
+
+{
+    "Global Quote": {
+        "01. symbol": "CSCO",
+        "02. open": "56.9700",
+        "03. high": "57.1500",
+        "04. low": "56.3100",
+        "05. price": "56.8200",
+        "06. volume": "16625557",
+        "07. latest trading day": "2021-11-12",
+        "08. previous close": "56.7600",
+        "09. change": "0.0600",
+        "10. change percent": "0.1057%"
+    }
+}
+
+The current price of CSCO is: 56.8200
+
